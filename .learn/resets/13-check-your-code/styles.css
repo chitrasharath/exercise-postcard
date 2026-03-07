@@ -9,7 +9,6 @@ body {
 }
 .postcard-header {
 	display: flex;
-	padding: 5px;
 }
 .postcard-header img {
 	width: 50px;
